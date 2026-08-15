@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/elvishpatel/DSA_LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Two Pointers
 |  |
 | ------- |
@@ -13,4 +14,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/elvishpatel/DSA_LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Math
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/elvishpatel/DSA_LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Greedy
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/elvishpatel/DSA_LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/elvishpatel/DSA_LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
