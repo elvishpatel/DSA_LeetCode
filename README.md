@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0001-two-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/elvishpatel/DSA_LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Two Pointers
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/elvishpatel/DSA_LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
