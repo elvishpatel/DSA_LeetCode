@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0069-sqrtx) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/elvishpatel/DSA_LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3870-count-commas-in-range](https://github.com/elvishpatel/DSA_LeetCode/tree/master/3870-count-commas-in-range) |
 ## Greedy
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/elvishpatel/DSA_LeetCode/tree/master/1108-defanging-an-ip-address) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
