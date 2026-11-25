@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0011-container-with-most-water) |
+| [0118-pascals-triangle](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
