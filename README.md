@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0055-jump-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/elvishpatel/DSA_LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Game Theory
 |  |
@@ -71,5 +73,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
