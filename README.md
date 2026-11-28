@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0217-contains-duplicate) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0977-squares-of-a-sorted-array](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -73,6 +76,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0118-pascals-triangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/elvishpatel/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
